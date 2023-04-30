@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-IBM Capstone Project<br>At this time, I am engaged in enhancing my programming competency while acquiring knowledge in the field of machine learning.
+At this time, I am engaged in enhancing my programming competency while acquiring knowledge in the field of machine learning.
 
 
 # 💻 Tech Stack:
